@@ -1,0 +1,32 @@
+body{
+    background-image: url(logo1.1.webp);
+}
+
+button{
+    background: rgba(132, 56, 195, 0.829);
+      height: 40px;
+      width: 240px;
+      line-height: 40px;
+      border-radius: 20px;
+      padding: 0px 20px;
+      border: none;
+      margin-bottom: 20px;
+      color: rgb(26, 158, 234);
+  }
+
+  div.ConfirmacionCompra{
+  background: rgba(57, 179, 231, 0.684);
+  height: 740px;
+  width: 300px;
+  border-radius: 20px;
+  }
+
+  a{
+    text-decoration: none;
+    color:#000000;
+
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
